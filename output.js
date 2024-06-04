@@ -38,7 +38,7 @@ const horoscopeData = {
   },
   aries: {
     image:
-      "https://files.slack.com/files-pri/T0EB87AN4-F04CCUMNTH7/hqdefault.jpeg",
+      "https://t4.ftcdn.net/jpg/01/77/47/67/360_F_177476718_VWfYMWCzK32bfPI308wZljGHvAUYSJcn.jpg",
     text: "Like their fellow fire signs, Leo and Sagittarius, Aries is a passionate, motivated, and confident leader who builds community with their cheerful disposition and relentless determination. Uncomplicated and direct in their approach, they often get frustrated by exhaustive details and unnecessary nuances",
   },
   taurus: {
