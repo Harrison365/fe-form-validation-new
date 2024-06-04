@@ -10,7 +10,6 @@ form.addEventListener("submit", (event) => {
     starSign.value.trim() === ""
   ) {
     event.preventDefault(); //this needs to be first for some reason.
-    console.log("hi");
     firstName.classList.add("error");
     lastName.classList.add("error");
     starSign.classList.add("error");
